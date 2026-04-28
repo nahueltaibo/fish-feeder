@@ -9,3 +9,8 @@ This repository contains the code of an automatic fish feeder you can build your
 * 4 15mm long M3 screws
 * 1 AI_Thinker ESP32-cam MB (so the esp32-cam **and** the programmer)
 * Fish food flakes
+
+# ESPHome
+
+Instructions for usage with ESPHome, and an ESP8266 or other ESP32 device [are here](esphome/Readme-ESPHome.md)
+
